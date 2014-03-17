@@ -1,4 +1,4 @@
-## C++ Tutorial for the Mac User: Include self-defined header files
+## C++ Tutorial: Include self-defined header files
 
 For the course of NTU [Programming Design, Spring 2014](http://www.im.ntu.edu.tw/~lckung/courses/PDSp14/)
 
